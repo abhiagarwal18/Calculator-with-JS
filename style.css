@@ -1,3 +1,31 @@
 .container{
+    justify-content: center;
+    background-color: teal;
+    padding: 20px;
+    width: fit-content
+
+}
+
+#display{
+    width: 292px;
+    height: 15px;
+    padding: 20px;
+    margin: 0px 0px 5px 0px;
+    justify-content: center;
+    background-color: beige;
+    color: black;
+}
+
+button{
+    width: 40px;
+    color: brown;
+    background-color: antiquewhite;
+    text-align: center;
+    justify-content: center;
     
+    
+}
+button:hover{
+    background-color: white;
+    color:tomato
 }
