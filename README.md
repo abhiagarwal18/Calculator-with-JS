@@ -1,2 +1,2 @@
-# Calculator_with_HTML-CSS
-Online calculator made using Javascript basics.
+# Calculator_with_JS
+Online calculator made using Javascript basics, HTML and CSS
