@@ -1,2 +1,4 @@
 # Calculator_with_HTML-CSS
-Online calculator with effects for buttons
+Online calculator made using Javascript basics :-
+  functions
+  arrays
